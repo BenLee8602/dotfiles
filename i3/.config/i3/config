@@ -21,7 +21,7 @@ exec_always --no-startup-id ~/.config/picom/launch.sh
 exec_always --no-startup-id ~/.config/i3/redshift.sh
 
 # feh
-exec_always feh --bg-scale ~/Documents/wallpaper.jpg
+exec_always feh --bg-scale ~/.config/i3/wallpapers/wallpaper.jpg
 
 # polybar
 exec_always --no-startup-id ~/.config/polybar/launch.sh
