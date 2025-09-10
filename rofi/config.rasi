@@ -1,0 +1,16 @@
+configuration {
+    font: "Monospace 14";
+    show-icons: true;
+    display-drun: "Launch";
+
+    matching: "fuzzy";
+    disable-history: true;
+    drun-match-fields: "name";
+}
+
+@theme "gruvbox"
+
+listview {
+    lines: 8;
+}
+

@@ -9,6 +9,7 @@ declare -A targets=(
     ["nvim"]=".config/"
     ["picom"]=".config/"
     ["polybar"]=".config/"
+    ["rofi"]=".config/"
     [".xinitrc"]=""
 )
 
