@@ -5,6 +5,7 @@ dotfile_dir=$(cd $(dirname $0) && pwd)
 declare -A targets=(
     ["alacritty"]=".config/"
     [".bash_profile"]=""
+    ["dunst"]=".config/"
     ["i3"]=".config/"
     ["nvim"]=".config/"
     ["picom"]=".config/"
